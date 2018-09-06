@@ -1,0 +1,4 @@
+import os
+
+EXCLUDED_FILENAMES = ['6384c3e78.jpg', '00003e153.jpg']
+ORIGINAL_SIZE = (768, 768)
