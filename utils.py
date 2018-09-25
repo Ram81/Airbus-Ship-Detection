@@ -107,4 +107,4 @@ def save_target_mask(file_path, mask):
 
 if __name__ == '__main__':
 	overlay_masks('sample.csv', 'masked_image', False)
-		
+
